@@ -9,3 +9,5 @@ const test = 4;
 const test = 5;
 
 const test = 6;
+
+const test = 7;
