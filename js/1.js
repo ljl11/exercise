@@ -11,5 +11,3 @@ const test = 5;
 const test = 6;
 
 const test = 7;
-
-const test = 8;
