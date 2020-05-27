@@ -13,3 +13,6 @@ const test = 6;
 const test = 7++;
 
 console.log("我是小可爱");
+
+const test = 8;
+
