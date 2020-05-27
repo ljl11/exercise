@@ -11,4 +11,7 @@ const test = 5;
 const test = 6;
 
 const test = 7++;
+
 console.log('我是大傻逼');
+console.log("我是小可爱");
+
