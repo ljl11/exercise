@@ -1,4 +1,4 @@
-const test = 120;
+const test = 120000;
 
 const test = 2;
 
